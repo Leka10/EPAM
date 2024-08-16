@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="592c67e6-836a-4f38-82b0-25c684d2c594" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leka10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leka10/nuvolar.git&quot;,
+    &quot;accountId&quot;: &quot;e5682d59-4efe-4684-8f96-e9659e444dae&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jhE4Gdmquw3af1pS5zccVDYxQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PropertiesUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.nuvolar [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Amazon.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Aleksa/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Aleksa/IdeaProjects/nuvolar/src/test/java/suites/suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Aleksa/IdeaProjects/nuvolar/src/test/resources/suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EPAM.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PropertiesUtils.testtt.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SucessfullLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SucessfullLogin.testSucessfullLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Swagger.executor&quot;: &quot;Run&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksa/IdeaProjects/EPAM&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksa\IdeaProjects\nuvolar\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksa\IdeaProjects\nuvolar\src\test\java\suites" />
+      <recent name="C:\Users\Aleksa\IdeaProjects\nuvolar\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.EPAM">
+    <configuration name="C:/Users/Aleksa/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="tests.login" />
+      <option name="MAIN_CLASS_NAME" value="tests.login.SucessfullLogin" />
+      <option name="METHOD_NAME" value="testSucessfullLogin" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EPAM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.login" />
+      <option name="MAIN_CLASS_NAME" value="tests.tasks.EPAM" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swagger" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.tasks" />
+      <option name="MAIN_CLASS_NAME" value="tests.tasks.Swagger" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EPAM" />
+        <item itemvalue="TestNG.Swagger" />
+        <item itemvalue="TestNG.C:/Users/Aleksa/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592c67e6-836a-4f38-82b0-25c684d2c594" name="Changes" comment="" />
+      <created>1721830720690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721830720690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
