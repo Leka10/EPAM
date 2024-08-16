@@ -1,4 +1,3 @@
-# Swagger Petstore Automation Tests
 
 ## Setup
 
@@ -12,9 +11,3 @@ Run the following command to install the necessary dependencies:
 
 ```bash
 mvn clean install
-"# EPAM" 
-"# EPAM" 
-"# EPAM" 
-"# EPAM" 
-"# EPAM" 
-"# EPAM" 
